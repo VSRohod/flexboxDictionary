@@ -1,0 +1,30 @@
+.container {
+    width: 80%;
+}
+
+.containerVertical {
+    width: 80%;
+}
+
+.containerVertical div {
+    height: 50px;
+}
+
+.blocoHide {
+    display: none;
+}
+
+.blocoum {
+    width: 10%;
+    height: 50%;
+}
+
+.blocodois {
+    width: 10%;
+    height: 50%;
+}
+
+.blocotres {
+    width: 10%;
+    height: 50%;
+}
